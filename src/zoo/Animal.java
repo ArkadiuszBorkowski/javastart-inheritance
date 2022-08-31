@@ -1,3 +1,5 @@
+package zoo;
+
 class Animal {
     private String color;
 
@@ -12,5 +14,7 @@ class Animal {
     public void makeSound() {
         System.out.println("Burp Burp");
     }
+
+
 
 }
